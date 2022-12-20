@@ -1,5 +1,7 @@
 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
 
+(token)
+
 git remote add origin https://github.com/25-yulia/WEB227---JS.git
 
-https://github.com/25-yulia/WEB227---JS/blob/3cc78049c670e8a80d07aecc622c294d518d4178/JS_1/index.html#L11
+https://github.com/25-yulia/WEB227---JS/blob/3cc78049c670e8a80d07aecc622c294d518d4178/JS_1/index.html#L11s
